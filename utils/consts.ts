@@ -15,7 +15,7 @@ import { StaticImageData } from "next/image";
 export const ALLOW_ALL_DEVICES = true;
 
 export const WALLET_MANIFEST_URL =
-  "https://crimson-abundant-bedbug-859.mypinata.cloud/ipfs/QmfJbeiszrat95nQytRTNHu34BrSmP13hD4PUDnqptQsfQ";
+  "https://yellow-patient-cheetah-559.mypinata.cloud/ipfs/Qman9QdYTU85oVqkyfY7ZoKNHJNjNStASeoL1fQWKkrLoR";
 
 export interface LevelData {
   name: string;
